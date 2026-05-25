@@ -95,7 +95,7 @@ index.htmlを編集して文章をpタグで挟んでみましょう！
 編集した内容が反映されているかブラウザで確認してみましょう！
 以下のように表示されていればOKです。
 
-<img src="https://github.com/user-attachments/assets/5d949bbf-2bae-4fe5-94b4-67d0711efd1b" width=300>
+<img src="https://github.com/us"er-attachments/assets/5d949bbf-2bae-4fe5-94b4-67d0711efd1b" width=300>
 
 なるべく解答を見ないでやってみましょう！
 
